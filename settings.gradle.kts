@@ -13,9 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-<<<<<<< HEAD
 rootProject.name = "ComposeQuadrants"
-=======
-rootProject.name = "ComposeTaskManager"
->>>>>>> origin/main
 include(":app")

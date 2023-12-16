@@ -4,19 +4,11 @@ plugins {
 }
 
 android {
-<<<<<<< HEAD
     namespace = "com.example.composequadrants"
     compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.composequadrants"
-=======
-    namespace = "com.example.composetaskmanager"
-    compileSdk = 34
-
-    defaultConfig {
-        applicationId = "com.example.composetaskmanager"
->>>>>>> origin/main
         minSdk = 34
         targetSdk = 34
         versionCode = 1
